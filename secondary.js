@@ -19,9 +19,9 @@ console.log("Here is the fourth character in the string: " + quote[4]);
 var position = quote.charAt(11);
 console.log("Letter at index 11: ", position);
 
-// var newPhrase = quote.replace("bicycle". "elephant");
-// console.log("Quote with replaced word: ", newPhrase);
+var newPhrase = quote.replace("bicycle", "elephant");
+console.log("Quote with replaced word: ", newPhrase);
 
-var newPhrase = quote.replace(/i/g, "z");
-console.log("Quote with replaced letters:", newPhrase);
+// var newPhrase = quote.replace(/i/g, "z");
+// console.log("Quote with replaced letters:", newPhrase);
 
