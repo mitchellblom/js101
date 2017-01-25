@@ -1,6 +1,6 @@
-var phrase = "Hey, look at me!";
+// var phrase = "Hey, look at me!";
 
-var element = document.getElementById("container");
-console.log(element);
+// var element = document.getElementById("container");
+// console.log(element);
 
-element.innerHTML = "<b>hello!</b>";
+// element.innerHTML = "<b>hello!</b>";
