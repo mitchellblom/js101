@@ -27,4 +27,4 @@ console.log(largePoem.replace(regex, "a large"));
 
 // Set the content of the sonnet div with the new string
 
-element.innerHTML = largePoem;
+element.innerHTML = largePoem.replace;
